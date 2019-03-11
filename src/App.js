@@ -9,7 +9,7 @@ class App extends Component {
     groceries: [
       { id: 1, name: "Eggs", complete: false},
       { id: 2, name: "Milk", complete: false},
-      { id: 1, name: "Bananas", complete: false},
+      { id: 3, name: "Bananas", complete: false},
     ]
   }
 
